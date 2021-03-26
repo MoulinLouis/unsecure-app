@@ -1,5 +1,10 @@
 # Unsecure Project
 
+## Correctif groupe 6 / 3IW3
+
+Fork de ```https://github.com/LouisHrg/unsecure-app```
+ 
+Comprends l'ensemble des correctifs effectuées par le groupe 6 de la classe 3IW3
 
 ## Pour lancer le projet
 
